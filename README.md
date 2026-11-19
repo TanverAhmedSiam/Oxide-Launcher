@@ -31,7 +31,7 @@ Bundled Java, one-click mod loaders, built-in Modrinth and CurseForge mod browse
 [![Latest release](https://img.shields.io/github/v/release/TanverAhmedSiam/Oxide-Launcher)](https://github.com/TanverAhmedSiam/oxide-launcher/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-yellow)](LICENSE)
 
-[Download](https://github.com/YOUR_USERNAME/oxide-launcher/releases/latest) ·
+[Download](https://github.com/TanverAhmedSiam/oxide-launcher/releases/latest) ·
 [Features](#features) ·
 [Screenshots](#screenshots) ·
 [Build from source](#build-from-source) ·
