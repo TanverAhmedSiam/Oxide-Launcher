@@ -28,7 +28,7 @@ Bundled Java, one-click mod loaders, built-in Modrinth and CurseForge mod browse
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-lightgrey)](#requirements)
 [![Built with Rust](https://img.shields.io/badge/built%20with-Rust-orange)](https://www.rust-lang.org/)
-[![Latest release](https://img.shields.io/github/v/release/TanverAhmedSiam/Oxide-Launcher)](https://github.com/YOUR_USERNAME/oxide-launcher/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/TanverAhmedSiam/Oxide-Launcher)](https://github.com/TanverAhmedSiam/oxide-launcher/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-yellow)](LICENSE)
 
 [Download](https://github.com/YOUR_USERNAME/oxide-launcher/releases/latest) ·
