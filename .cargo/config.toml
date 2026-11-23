@@ -1,0 +1,5 @@
+# Windows MSVC build settings.
+#  - 8 MB main-thread stack instead of 1 MB.
+#  - Statically linked C runtime, so the installer does not need the Visual C++ Redistributable.
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-C", "link-arg=/STACK:8388608", "-C", "target-feature=+crt-static"]

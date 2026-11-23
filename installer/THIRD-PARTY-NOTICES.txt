@@ -1,0 +1,26 @@
+Oxide Launcher - third-party notices
+====================================
+
+Oxide Launcher is free software licensed under the GNU Affero General Public License v3.0
+(see the LICENSE file next to this one). Its source code is available from the project's
+GitHub repository.
+
+Oxide Launcher is an independent project. It is not affiliated with, endorsed by or
+sponsored by Mojang Studios, Microsoft, OptiFine, Modrinth, CurseForge, Forge, NeoForge,
+Fabric or Quilt. "Minecraft" is a trademark of Mojang Studios.
+
+Bundled Java runtimes
+---------------------
+The "runtimes" folder contains Eclipse Temurin(TM) JRE builds from the Eclipse Adoptium
+project (https://adoptium.net), licensed under the GNU General Public License, version 2,
+with the Classpath Exception. Each runtime folder contains its own license texts in "legal".
+
+Libraries used by the launcher
+------------------------------
+egui / eframe (MIT or Apache-2.0), Phosphor Icons via egui-phosphor (MIT), tokio, reqwest,
+rustls, serde, image and other Rust crates (MIT and/or Apache-2.0). Full license texts are
+available from each crate's repository on https://crates.io.
+
+Game files, libraries and mods are downloaded from their official sources (Mojang, Forge,
+NeoForge, Fabric, Quilt, Modrinth, CurseForge) when you ask for them. Each mod and pack
+is under its own author's license.
